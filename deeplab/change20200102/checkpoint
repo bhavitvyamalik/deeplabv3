@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/nagdev/work/EDGE/number-plate-detection/deeplab/change20200102/model.ckpt-2500"
+all_model_checkpoint_paths: "/home/nagdev/work/EDGE/number-plate-detection/deeplab/change20200102/model.ckpt-0"
+all_model_checkpoint_paths: "/home/nagdev/work/EDGE/number-plate-detection/deeplab/change20200102/model.ckpt-2227"
+all_model_checkpoint_paths: "/home/nagdev/work/EDGE/number-plate-detection/deeplab/change20200102/model.ckpt-2500"
